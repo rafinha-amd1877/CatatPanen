@@ -1,6 +1,4 @@
 import pandas as pd
-
-# import tabulate as tb
 from tabulate import tabulate
 
 data_panen = []
